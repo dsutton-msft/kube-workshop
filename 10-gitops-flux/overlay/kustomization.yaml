@@ -16,3 +16,6 @@ images:
 # Apply patches to override and set other values
 patches:
   - ./override.yaml
+
+commonLabels:
+  owner: dsutton
